@@ -1,0 +1,10 @@
+Protein,Ligand,Prediction
+3fdn_A_MMH1,3fdn_A_MMH1,BLAminus
+3fdn_A_MMH1,3vnt_A_0JA2001,BLAminus
+3fdn_A_MMH1,8uv0_A_XKU301,BLAminus
+3vnt_A_0JA2001,3fdn_A_MMH1,DFGout
+3vnt_A_0JA2001,3vnt_A_0JA2001,DFGout
+3vnt_A_0JA2001,8uv0_A_XKU301,DFGout
+8uv0_A_XKU301,3fdn_A_MMH1,DFGothers
+8uv0_A_XKU301,3vnt_A_0JA2001,DFGothers
+8uv0_A_XKU301,8uv0_A_XKU301,DFGothers
