@@ -1,4 +1,4 @@
-name: KASSPER
+name: KASSPer
 channels:
   - pytorch
   - nvidia
