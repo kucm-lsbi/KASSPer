@@ -17,7 +17,7 @@ conda activate KASSPer
 
 ## Usage
 
-### 1) 1:1 matching prediction (same ID)
+### 1) 1:1 matching prediction (obo)
 
 Embeddings and predictions are created only when FASTA and SMI share the **same IDs**.
 
@@ -30,7 +30,7 @@ python KASSPER/main.py \
   --force-remake
 ```
 
-### 2) All-pairs prediction (protein x ligand)
+### 2) All-pairs prediction (obn)
 
 Embeddings are created independently for FASTA and SMI inputs, then **all pairs** are predicted.
 
