@@ -4,7 +4,7 @@ KASSPer predicts kinase active-site conformational states using protein and comp
 Given a kinase amino acid sequence and a ligand SMILES string, it performs ligand-specific state prediction prior to structure-based virtual screening (SBVS).
 
 ## Resources
-
+- KLIFS (kinase database): https://klifs.net
 - KinCoRe (Kinase structure annotation): https://github.com/DunbrackLab/Kincore-standalone2  
 - DUD-E (Ligand benchmark library): https://dude.docking.org/subsets  
 - Kinase multi-state protein structures: https://doi.org/10.5281/zenodo.8272608
