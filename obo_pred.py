@@ -2,6 +2,9 @@ import os, json, numpy as np, pandas as pd, joblib
 from tqdm import tqdm
 import sys
 import contextlib
+from model_classes import MultiGPULGBMClassifier
+import __main__
+__main__.MultiGPULGBMClassifier = MultiGPULGBMClassifier
 from obo_embed import embed_paired
 def load_npz_vec(path):
     return np.load(path)["embedding"]
