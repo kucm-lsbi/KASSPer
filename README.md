@@ -1,3 +1,4 @@
+[![DOI](https://img.shields.io/badge/DOI-10.1093/bioinformatics/btag481-blue)](https://doi.org/10.1093/bioinformatics/btag481)
 # KASSPer
 
 KASSPer predicts kinase active-site conformational states using protein and compound language models.
