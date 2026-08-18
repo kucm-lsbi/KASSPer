@@ -1,6 +1,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1093/bioinformatics/btag481-blue)](https://doi.org/10.1093/bioinformatics/btag481)
 # KASSPer
-
+<img src="asset/KASSPer.png" width="110" align="right" alt="KASSPer logo">
 KASSPer predicts kinase active-site conformational states using protein and compound language models.
 Given a kinase amino acid sequence and a ligand SMILES string, it performs ligand-specific state prediction prior to structure-based virtual screening (SBVS).
 
